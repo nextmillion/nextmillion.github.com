@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="0 0 27 472" viewBox="0 0 27 472" xmlns="http://www.w3.org/2000/svg" data-type="ugc" role="presentation" aria-hidden="true" aria-labelledby="svgcid-jvazw5-59i3y2"><title id="svgcid-jvazw5-59i3y2"></title>
+    <g>
+        <linearGradient y2="0" x2="13.5" y1="472" x1="13.5" gradientUnits="userSpaceOnUse" id="svgcid-vg2rdd-oibabh">
+            <stop offset=".528" stop-color="#000000" stop-opacity="0"></stop>
+            <stop offset=".572" stop-color="#060500" stop-opacity=".093"></stop>
+            <stop offset=".633" stop-color="#181200" stop-opacity=".222"></stop>
+            <stop offset=".703" stop-color="#352700" stop-opacity=".372"></stop>
+            <stop offset=".781" stop-color="#5e4600" stop-opacity=".537"></stop>
+            <stop offset=".865" stop-color="#926c00" stop-opacity=".715"></stop>
+            <stop offset=".953" stop-color="#d19b00" stop-opacity=".9"></stop>
+            <stop offset="1" stop-color="#f6b600"></stop>
+        </linearGradient>
+        <path d="M16.1 472h-5.2c-6 0-10.9-4.9-10.9-10.9V10.9C0 4.9 4.9 0 10.9 0h5.2C22.1 0 27 4.9 27 10.9v450.2c0 6-4.9 10.9-10.9 10.9z" fill="url(#svgcid-vg2rdd-oibabh)"></path>
+    </g>
+</svg>
